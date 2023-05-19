@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I am an actuary with a specialty in Actuarial Risk Management, Underwriting and Pricing of Insurance, Data Science and IFRS17-Insurance Contracts
 
 <!--
 **herediarrafael/herediarrafael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
